@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T13:09:05.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="r7yIPUpGWnO5_KIRklzw" version="24.0.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-18T13:13:26.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="iJqJovLs3DovY9O4Pmd5" version="24.0.7" type="github" pages="3">
   <diagram name="DP6" id="vg8kRQ7VqG9REw9UbkT7">
     <mxGraphModel dx="1291" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -167,11 +167,6 @@
         <mxCell id="j9SsImKabyUvwR78-eRB-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.61;entryY=0.931;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" parent="j9SsImKabyUvwR78-eRB-1" source="j9SsImKabyUvwR78-eRB-9" target="j9SsImKabyUvwR78-eRB-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j9SsImKabyUvwR78-eRB-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;*&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="j9SsImKabyUvwR78-eRB-17" vertex="1" connectable="0">
-          <mxGeometry x="0.1947" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="j9SsImKabyUvwR78-eRB-19" value="&lt;h1 style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;*&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px; font-weight: normal; background-color: initial;&quot;&gt;Input&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;Document Paragraph&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Study Data&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Output&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Generated Text/Narrative&lt;/font&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=10;" parent="j9SsImKabyUvwR78-eRB-1" vertex="1">
           <mxGeometry x="740" y="240" width="150" height="111.23" as="geometry" />
         </mxCell>
@@ -184,7 +179,7 @@
         <mxCell id="j9SsImKabyUvwR78-eRB-22" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Document Repository&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="j9SsImKabyUvwR78-eRB-20" vertex="1">
           <mxGeometry x="2.5" y="52.00333333333333" width="60" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="j9SsImKabyUvwR78-eRB-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="j9SsImKabyUvwR78-eRB-1" source="j9SsImKabyUvwR78-eRB-21" target="j9SsImKabyUvwR78-eRB-38" edge="1">
+        <mxCell id="j9SsImKabyUvwR78-eRB-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="j9SsImKabyUvwR78-eRB-1" source="j9SsImKabyUvwR78-eRB-21" target="j9SsImKabyUvwR78-eRB-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j9SsImKabyUvwR78-eRB-24" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Document Types&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;&quot;&gt;&lt;font style=&quot;font-weight: normal; font-size: 15px;&quot;&gt;Input (1)&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;Study Templates&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Protocols&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Study raw data/metrics&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Output (5)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;ul style=&quot;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Study Draft&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="j9SsImKabyUvwR78-eRB-1" vertex="1">

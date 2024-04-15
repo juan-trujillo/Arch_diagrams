@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T13:13:49.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="Q-AE_MPGdl-cQzL5CEcM" version="24.0.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-15T14:36:09.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="RQ3SfO3HOaPxB4LlGqmB" version="24.2.5" type="github" pages="3">
   <diagram name="DP6" id="vg8kRQ7VqG9REw9UbkT7">
-    <mxGraphModel dx="1291" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,17 +120,17 @@
         <mxCell id="8UGMhk0Iyk4znZdGXi-y-109" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;PDF Processing&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" parent="1" vertex="1">
           <mxGeometry x="504.5" y="249.99999999999997" width="50" height="44.16" as="geometry" />
         </mxCell>
-        <mxCell id="SSz5BhQBmZC5KCbLJ-XQ-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Orchestrator (Durable Function)&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" vertex="1" parent="1">
+        <mxCell id="SSz5BhQBmZC5KCbLJ-XQ-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Orchestrator (Durable Function)&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" parent="1" vertex="1">
           <mxGeometry x="739.5" y="350" width="50" height="44.16" as="geometry" />
         </mxCell>
-        <mxCell id="SSz5BhQBmZC5KCbLJ-XQ-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Logic_Apps.svg;" vertex="1" parent="1">
+        <mxCell id="SSz5BhQBmZC5KCbLJ-XQ-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Logic_Apps.svg;" parent="1" vertex="1">
           <mxGeometry x="630" y="418" width="50" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Review of DP6" id="5NDtWIAQD58Q9jtJSgi1">
-    <mxGraphModel dx="1392" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="j9SsImKabyUvwR78-eRB-0" />
         <mxCell id="j9SsImKabyUvwR78-eRB-1" parent="j9SsImKabyUvwR78-eRB-0" />
@@ -197,7 +197,7 @@
         <mxCell id="j9SsImKabyUvwR78-eRB-34" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Takeda&#39;s Vnet&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="j9SsImKabyUvwR78-eRB-32" vertex="1">
           <mxGeometry x="56.99" width="103" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="kUv2sxTPSiElcKPSYKO9-0" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="j9SsImKabyUvwR78-eRB-1" source="j9SsImKabyUvwR78-eRB-38" target="j9SsImKabyUvwR78-eRB-4" edge="1">
+        <mxCell id="kUv2sxTPSiElcKPSYKO9-0" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="j9SsImKabyUvwR78-eRB-1" source="j9SsImKabyUvwR78-eRB-38" target="j9SsImKabyUvwR78-eRB-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j9SsImKabyUvwR78-eRB-38" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Logic_Apps.svg;" parent="j9SsImKabyUvwR78-eRB-1" vertex="1">
@@ -211,11 +211,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="achFH-pQxnFn39rjEUWO-0" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="j9SsImKabyUvwR78-eRB-1">
+          <mxGeometry x="515" y="399" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="achFH-pQxnFn39rjEUWO-1" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="j9SsImKabyUvwR78-eRB-1">
+          <mxGeometry x="386.5" y="348.15999999999997" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="achFH-pQxnFn39rjEUWO-2" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="j9SsImKabyUvwR78-eRB-1">
+          <mxGeometry x="620" y="231" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="achFH-pQxnFn39rjEUWO-3" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="j9SsImKabyUvwR78-eRB-1">
+          <mxGeometry x="564.5" y="328.15999999999997" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="achFH-pQxnFn39rjEUWO-6" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="j9SsImKabyUvwR78-eRB-1">
+          <mxGeometry x="484.5" y="454.73" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Hx23GZ0tm0sFFiwT2rf0" name="Document Scanner">
-    <mxGraphModel dx="1392" dy="1616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="1565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
